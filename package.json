@@ -1,0 +1,19 @@
+{
+  "name": "nodeintro",
+  "version": "0.1.0",
+  "description": "node intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ls"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
+}
